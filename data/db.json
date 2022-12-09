@@ -1,0 +1,73 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Welcome to the new blog",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias architecto deleniti doloribus ea enim explicabo labore odio perspiciatis, sed sit.",
+      "tags": [
+        "webdev",
+        "coding",
+        "news"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Top 5 CSS tips",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias architecto deleniti doloribus ea enim explicabo labore odio perspiciatis, sed sit.",
+      "tags": [
+        "css",
+        "webdev",
+        "coding"
+      ]
+    },
+    {
+      "title": "4214",
+      "body": "134",
+      "tags": [
+        "344",
+        "1214",
+        "1"
+      ],
+      "id": 5
+    },
+    {
+      "title": "New Article",
+      "body": "Today i was really good, learnt so many stuff",
+      "tags": [
+        "good",
+        "motivational",
+        "html",
+        "css"
+      ],
+      "id": 6
+    },
+    {
+      "title": "yes",
+      "body": "im stupid",
+      "tags": [
+        "123",
+        "223"
+      ],
+      "id": 7
+    },
+    {
+      "title": "4444",
+      "body": "444",
+      "tags": [
+        "4"
+      ],
+      "id": 8
+    },
+    {
+      "title": "Huinyas",
+      "body": "huynya",
+      "tags": [
+        "css",
+        "webdev",
+        "html",
+        "huita"
+      ],
+      "id": 9
+    }
+  ]
+}
